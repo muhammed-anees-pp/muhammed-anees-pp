@@ -4,10 +4,10 @@
   <img src="https://leetcard.jacoblin.cool/muhammed_anees?theme=dark&font=Karma" />
 </p>
 
-## 📅 LeetCode Daily Activity
+## 📈 LeetCode Activity
 
 <p align="center">
-  <img src="https://leetcode-calendar.vercel.app/api?username=muhammed_anees&theme=dark" />
+  <img src="https://leetcard.jacoblin.cool/muhammed_anees?theme=dark&ext=activity" />
 </p>
 
 ## 🏆 LeetCode Badges
