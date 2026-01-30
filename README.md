@@ -15,7 +15,7 @@ Backend Developer | Python | Django REST Framework | DSA
 ## 📅 LeetCode Daily Activity
 
 <p align="center">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=muhammed_anees&theme=dark" />
+  <img src="https://leetcode-calendar.vercel.app/api?username=muhammed_anees&theme=dark" />
 </p>
 
 ---
