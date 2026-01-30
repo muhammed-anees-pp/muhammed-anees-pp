@@ -1,16 +1,27 @@
-## Hi there 👋
+## 👋 Hi, I'm Muhammed Anees P P
 
-<!--
-**muhammed-anees-pp/muhammed-anees-pp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer | Python | Django REST Framework | DSA
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/muhammed_anees?theme=dark&font=Karma" />
+</p>
+
+---
+
+## 📅 LeetCode Daily Activity
+
+<p align="center">
+  <img src="https://leetcode-stats-six.vercel.app/api?username=muhammed_anees&theme=dark" />
+</p>
+
+---
+
+## 🏆 LeetCode Badges
+
+<p align="center">
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=muhammed_anees&theme=dark" />
+</p>
