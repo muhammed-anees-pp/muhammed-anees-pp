@@ -49,23 +49,6 @@
 
 ---
 
-## 🚀 LeetCode Overview
-
-<table>
-  <tr>
-    <td align="center">
-      <strong>LeetCode Stats</strong><br/><br/>
-      <img src="https://leetcard.jacoblin.cool/muhammed_anees?theme=dark&font=Karma" />
-    </td>
-    <td align="center">
-      <strong>LeetCode Badges</strong><br/><br/>
-      <img src="https://leetcode-badge-showcase.vercel.app/api?username=muhammed_anees&theme=dark" />
-    </td>
-  </tr>
-</table>
-
----
-
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: [muhammed-anees-p-p](https://www.linkedin.com/in/muhammed-anees-p-p/)
