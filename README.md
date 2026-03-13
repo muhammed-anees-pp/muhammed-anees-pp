@@ -48,9 +48,3 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: [muhammed-anees-p-p](https://www.linkedin.com/in/muhammed-anees-p-p/)
-- 💻 GitHub: [muhammed-anees-pp](https://github.com/muhammed-anees-pp)
-- 🧠 LeetCode: [muhammed_anees](https://leetcode.com/u/muhammed_anees/)
