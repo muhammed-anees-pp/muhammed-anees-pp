@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3776AB&center=true&vCenter=true&width=500&lines=Backend+Developer;Python+%7C+Django+REST+Framework;DSA+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3776AB&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Mainly+Focusing+on+Python;DSA+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
@@ -22,11 +22,11 @@
 
 ## 🧑‍💻 About Me
 
-- 🚀 Backend-focused developer with strong foundations in **Python & Django REST Framework**
+- 🚀 **Full Stack Developer** mainly focusing on **Python**, alongside Django & React
 - 🧠 Actively practicing **Data Structures & Algorithms** (380+ problems solved)
-- 🛠️ Experience building **REST APIs**, authentication systems, and scalable backend services
+- 🛠️ Experience building scalable web applications, **REST APIs**, and interactive frontends
 - 🌱 Currently improving **system design, CI/CD, and containerized deployments**
-- 🎯 Goal: Become a **high-impact backend engineer**
+- 🎯 Goal: Become a **high-impact full stack engineer**
 
 ---
 
@@ -62,14 +62,10 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammed-anees-pp&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammed-anees-pp&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammed-anees-pp&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
