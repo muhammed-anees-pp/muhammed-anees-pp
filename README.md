@@ -65,7 +65,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammed-anees-pp&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=muhammed-anees-pp&theme=tokyonight&hide_border=true&cache_bust=20260421" alt="GitHub Streak" />
 </p>
 
 ---
