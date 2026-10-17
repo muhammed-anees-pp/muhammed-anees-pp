@@ -21,7 +21,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=muhammed-anees-pp&label=Profile%20Views&color=3776AB&style=flat-square" alt="Profile views" />
+<!-- <img src="https://komarev.com/ghpvc/?username=muhammed-anees-pp&label=Profile%20Views&color=3776AB&style=flat-square" alt="Profile views" /> -->
 
 </div>
 
